@@ -6,3 +6,4 @@ keras-tuner==1.4.7
 scikit-learn==1.5.1
 scipy==1.12.0
 numpy==1.26.4
+Keras-Applications==1.0.8
